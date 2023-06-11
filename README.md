@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/mmdet3d-logo.png" width="600"/>
+  <img src="resources/mmdet3d-logo.png" width="800"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
